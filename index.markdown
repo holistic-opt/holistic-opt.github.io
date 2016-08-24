@@ -94,6 +94,7 @@ programming systems offered at the University of Washington.
 
 ### Point of Contact
 
+<p>
 <a class="person" href="http://homes.cs.washington.edu/~congy/">
   <span class="name">Cong Yan</span><br/>
   <img class="profile" src="http://homes.cs.washington.edu/~congy/congy.png"/>
@@ -113,7 +114,7 @@ programming systems offered at the University of Washington.
   <span class="name">Shan Lu</span><br/>
   <img class="profile" src="http://people.cs.uchicago.edu/~shanlu/img/me/shanlu.jpg"/>
 </a>
-<p>
+</p>
 
 
 ### Acknowledgement:
