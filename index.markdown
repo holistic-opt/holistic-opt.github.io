@@ -83,7 +83,7 @@ programming systems offered at the University of Washington.
 
 ### Presentations
 - [University of Washington Database Day](http://db.cs.washington.edu/events/database_day/2015/database_day_2015.html), December 2015.
-- NSF Bigdata workshop, April 2016.
+- [NSF Bigdata workshop](http://workshops.cs.georgetown.edu/BDPI-2016/), April 2016.
 - University of Chicago industry affiliate workshop, June 2016.
 
 
