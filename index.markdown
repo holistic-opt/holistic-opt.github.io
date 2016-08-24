@@ -99,6 +99,11 @@ programming systems offered at the University of Washington.
   <img class="profile" src="http://homes.cs.washington.edu/~congy/congy.png"/>
 </a>
 
+<a class="person" href="https://www.linkedin.com/in/zeweichu">
+  <span class="name">Zewei Chu</span><br/>
+  <img class="profile" src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/8/005/0b5/1f8/2fd581e.jpg"/>
+</a>
+
 <a class="person" href="https://homes.cs.washington.edu/~akcheung/">
   <span class="name">Alvin Cheung</span><br/>
   <img class="profile" src="https://homes.cs.washington.edu/~akcheung/self.jpg"/>
@@ -108,7 +113,7 @@ programming systems offered at the University of Washington.
   <span class="name">Shan Lu</span><br/>
   <img class="profile" src="http://people.cs.uchicago.edu/~shanlu/img/me/shanlu.jpg"/>
 </a>
-<br>
+<p>
 
 
 ### Acknowledgement:
