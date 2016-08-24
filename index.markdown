@@ -108,7 +108,7 @@ programming systems offered at the University of Washington.
   <span class="name">Shan Lu</span><br/>
   <img class="profile" src="http://people.cs.uchicago.edu/~shanlu/img/me/shanlu.jpg"/>
 </a>
-
+<br>
 
 
 ### Acknowledgement:
