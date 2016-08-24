@@ -117,7 +117,7 @@ programming systems offered at the University of Washington.
 </p>
 
 
-### Acknowledgement:
+### Acknowledgement
 This material is based upon work supported by the National Science Foundation under Grant No. 
 [IIS-1546083](http://nsf.gov/awardsearch/showAward?AWD_ID=1546083) (2016-2019), "Holistic Optimization of Data-Driven Applications,"
 and is a collaborative effort between 
