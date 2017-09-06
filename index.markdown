@@ -108,9 +108,9 @@ programming systems offered at the University of Washington.
   <img class="profile" src="http://homes.cs.washington.edu/~congy/congy.png"/>
 </a>
 
-<a class="person" href="https://www.linkedin.com/in/zeweichu">
-  <span class="name">Zewei Chu</span><br/>
-  <img class="profile" src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/8/005/0b5/1f8/2fd581e.jpg"/>
+<a class="person" href="http://x1022069.wixsite.com/junwen">
+  <span class="name">Junwen Yang</span><br/>
+  <img class="profile" src="https://static.wixstatic.com/media/88c20c_29668323d88340debd17bff695a48d7b~mv2.jpeg/v1/fill/w_332,h_353,al_c,q_80,usm_0.66_1.00_0.01/88c20c_29668323d88340debd17bff695a48d7b~mv2.webp"/>
 </a>
 
 <a class="person" href="https://homes.cs.washington.edu/~akcheung/">
@@ -137,4 +137,4 @@ the National Science Foundation.
 
 
 ### Date of Last Update
-August 24, 2016
+September 06, 2017
