@@ -76,9 +76,13 @@ programming systems offered at the University of Washington.
 
 ### Publications
 - Cong Yan, Alvin Cheung, 
-"[Leveraging Lock Contention to Improve OLTP Application Performance](http://db.cs.washington.edu/projects/quro/)", VLDB'16. 
+"[Leveraging Lock Contention to Improve OLTP Application Performance](http://db.cs.washington.edu/projects/quro/)", VLDB 16. 
 - Cong Yan, Zewei Chu, Alvin Cheung, Shan Lu,
 "[Database-Backed Applications in the Wild: How Well Do They Work?](https://arxiv.org/abs/1607.02561)", ArXiv preprint.
+- Cong Yan, Junwen Yang, Alvin Cheung, Shan Lu,
+"[Understanding Database Performance Inefficiencies in Real-world Web Applications](http://people.cs.uchicago.edu/~shanlu/paper/cikm17.pdf)", CIKM 17.
+- Junwen Yang, Cong Yan, Shan Lu, Alvin Cheung,
+"A Comprehensive Study and Discovery of Performance Problems in Database-Backed Web Applications", currently under submission.
 
 
 ### Presentations
@@ -87,9 +91,13 @@ programming systems offered at the University of Washington.
 - University of Chicago industry affiliate workshop, June 2016.
 
 
-### Software Downloads 
+### Software Released
 - [Quro](http://db.cs.washington.edu/projects/quro/), compiler for transactional applications
 
+
+### Relevant Courses
+- [CSE 344](https://courses.cs.washington.edu/courses/cse344/), Introduction to Data Management, University of Washington.
+- [CSE 401](https://courses.cs.washington.edu/courses/cse401/), Introduction to Compiler Construction, University of Washington.
 
 
 ### Point of Contact
