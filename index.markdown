@@ -81,8 +81,6 @@ programming systems offered at the University of Washington.
 "[Database-Backed Applications in the Wild: How Well Do They Work?](https://arxiv.org/abs/1607.02561)", ArXiv preprint.
 - Cong Yan, Junwen Yang, Alvin Cheung, Shan Lu,
 "[Understanding Database Performance Inefficiencies in Real-world Web Applications](http://people.cs.uchicago.edu/~shanlu/paper/cikm17.pdf)", CIKM 17.
-- Junwen Yang, Cong Yan, Shan Lu, Alvin Cheung,
-"A Comprehensive Study and Discovery of Performance Problems in Database-Backed Web Applications", currently under submission.
 
 
 ### Presentations
