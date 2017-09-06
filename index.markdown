@@ -98,7 +98,7 @@ programming systems offered at the University of Washington.
 - [CSE 401](https://courses.cs.washington.edu/courses/cse401/), Introduction to Compiler Construction, University of Washington.
 
 
-### Point of Contact
+### Personnel
 
 <p>
 <a class="person" href="http://homes.cs.washington.edu/~congy/">
@@ -134,5 +134,5 @@ material are those of the author(s) and do not necessarily reflect the views of
 the National Science Foundation.
 
 
-### Date of Last Update
+### Updated
 September 06, 2017
