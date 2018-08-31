@@ -77,10 +77,8 @@ programming systems offered at the University of Washington.
 ### Publications
 - Cong Yan, Alvin Cheung, 
 "[Leveraging Lock Contention to Improve OLTP Application Performance](http://db.cs.washington.edu/projects/quro/)", VLDB 16. 
-- Cong Yan, Zewei Chu, Alvin Cheung, Shan Lu,
-"[Database-Backed Applications in the Wild: How Well Do They Work?](https://arxiv.org/abs/1607.02561)", ArXiv preprint.
-- Cong Yan, Junwen Yang, Alvin Cheung, Shan Lu,
-"[Understanding Database Performance Inefficiencies in Real-world Web Applications](http://people.cs.uchicago.edu/~shanlu/paper/cikm17.pdf)", CIKM 17.
+- More papers listed on the [Hyperloop project website](https://hyperloop-rails.github.io/)
+
 
 
 ### Presentations
