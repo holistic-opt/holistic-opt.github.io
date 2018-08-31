@@ -91,7 +91,7 @@ programming systems offered at the University of Washington.
 
 ### Software Released
 - [Quro](http://db.cs.washington.edu/projects/quro/), compiler for transactional applications
-
+- [Hyperloop](https://hyperloop-rails.github.io), a program analyzer for detecting and solving performance problems for database-backed web applications built using the Ruby on Rails framework.
 
 ### Relevant Courses
 - [CSE 344](https://courses.cs.washington.edu/courses/cse344/), Introduction to Data Management, University of Washington.
@@ -99,7 +99,7 @@ programming systems offered at the University of Washington.
 - [CMSC 22001](https://www.classes.cs.uchicago.edu/archive/2017/winter/22001-1/), Software Construction, University of Chicago.
 
 ### Relavant Projects
--[hyperloop](https://hyperloop-rails.github.io), detecting and solving performance problems for web applications built with ORM (Object-Relational Mapping) frameworks.
+
 
 ### Personnel
 
